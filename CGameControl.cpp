@@ -13,7 +13,7 @@ void CGameControl::SetSecPoint(int nRow, int nCol)
 
 bool CGameControl::Link()
 {
-	if (m_ptSelFirst.row == m_ptSelSec.row && m_ptSelFirst.col == m_ptSelSec.col)//�ж�ͼƬ�Ƿ���ͬһ��
+	if (m_ptSelFirst.row == m_ptSelSec.row && m_ptSelFirst.col == m_ptSelSec.col)//判断图片是否为同一张
 	{
 		return false;
 	}
