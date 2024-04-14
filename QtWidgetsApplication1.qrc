@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="QtWidgetsApplication1"/>
+  <qresource prefix="snake">
+    <file>image/bg_m0ain.bmp</file>
+  </qresource>
+</RCC>
